@@ -4,9 +4,8 @@
 basic mathmatic operations like addition, subtraction, multiplication, division:
 
 """
-a=float(input("Enter first number:"))
-b=float(input("Enter second number:"))
-
+a=5
+b=10
 add =a+b
 sub =a-b
 multi =a*b 
@@ -19,8 +18,8 @@ print("addition is",div)
 
 ###Task 2:
 
-a=input("enter first name:")
-b=input("enter second name:")
+first_name="john"
+last_name="doe"
 
-print("hello", a,b+"!","Welcome to the Python programe.")
+print("hello", first_name, last_name+"!","Welcome to the Python programe.")
 
