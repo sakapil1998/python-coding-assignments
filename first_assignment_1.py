@@ -7,15 +7,15 @@ basic mathmatic operations like addition, subtraction, multiplication, division:
 a=float(input("Enter first number:"))
 b=float(input("Enter second number:"))
 
-p =a+b
-q =a-b
-r =a*b 
-s =a/b
+addition =a+b
+subtraction =a-b
+multiplication =a*b 
+division =a/b
 
-print("p is",p)
-print("q is",q)
-print("r is",r)
-print("s is",s)
+print("addtion is",addition)
+print("subtraction is",subtraction)
+print("multiplication is",multiplication)
+print("addition is",division)
 
 ###Task 2:
 
