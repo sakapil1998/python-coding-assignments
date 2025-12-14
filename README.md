@@ -18,10 +18,10 @@ print("division is", div)
 
 
 """Expected output:"""
-    #addtion is 15
-    #subtraction is -5
-    #multiplication is 50
-    #addition is 0.5"
+    # addtion is 15
+    # subtraction is -5
+    # multiplication is 50
+    # addition is 0.5"
 
 ###Task 2:
 """
@@ -35,4 +35,4 @@ last_name="doe"
 print("hello", first_name, last_name+"!","Welcome to the Python programe.")
 
 """Expected output:"""
-     #hello john doe! Welcome to the Python programe.
+     # hello john doe! Welcome to the Python programe.
