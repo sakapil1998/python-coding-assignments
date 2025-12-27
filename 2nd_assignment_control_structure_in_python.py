@@ -25,7 +25,7 @@ last_number = int(input("enter a positive last integer:"))
 total_sum = 0
 print(f"calculating sum from 1 to {last_number}")
 for current_num in range(1, last_number +1):
-    total_sum = total_sum + current_num
+    total_sum = total_sum + current_num       #( total_sum += current_num)
 print(f"The sum of numbers from 1 to {current_num} is: {total_sum}") 
 
 """ expected output """
